@@ -6,7 +6,7 @@ def Currently_Learning( ):
 * Want to see what i make? Here's some of my repo's:
 * [Math Quest - An Endless & Simple Math Game](https://github.com/CodenTheSynth/MathQuest)
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codenthesynth&theme=tokyonight" alt="mystreak"/>
   
 
 
