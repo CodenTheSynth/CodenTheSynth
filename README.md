@@ -1,18 +1,7 @@
-I'm a Young Game Dev & Programmer. 
-<br />I Also Work On 3D Animation, 3d Models And Art. 
-
-```
-def Currently_Learning( ):
-   return "python, unity"
-```
-* Want to see what i make? Here's some of my repo's:
-* [Math Quest - An Endless & Simple Math Game](https://github.com/CodenTheSynth/MathQuest)
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodenTheSynth&theme=tokyonight" alt="mystreak"/>
-  
-
-
-
-
-
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/28f70835-107c-42c4-adb6-a07d4129fe98" width="500" height="200"><br />
+Greetings Stranger!<br />
+You May Call me Coden.<br />
+</p>
+- - -
+<br /> test
