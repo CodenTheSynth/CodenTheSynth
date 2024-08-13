@@ -39,9 +39,9 @@ i hope you enjoy the stuff i make! - Coden
 [Math Quest](https://github.com/CodenTheSynth/MathQuest) - this is a very easy math game with a basic progression system.
 
 # Links
-![Static Badge](https://img.shields.io/badge/Youtube%20-%20red?style=plastic&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40CodenTheSynth)
-
-
-
-> [!IMPORTANT]
-> This page is WIP, come back later.
+[Youtube](https://www.youtube.com/@CodenTheSynth) - Devlogs & Other Cool Stuff.<br />
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC44FB_DvFZSlAGl50H1OXCQ?style=plastic&logo=youtube)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC44FB_DvFZSlAGl50H1OXCQ?style=plastic&logo=youtube)
+<br />[TikTok](https://www.tiktok.com/@codenthesynth) - Mini-Devlogs, News and other stuff.
+<br />[Itch.io](https://codenthesynth.itch.io/) - All my projects, tools and other stuff
+<br />**Discord Username: coden_the_synth**
