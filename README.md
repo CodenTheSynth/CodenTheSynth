@@ -5,10 +5,13 @@ You May Call me Coden.<br />
 </p>
 
 - - -
-I am a young **coder** and **furry** learning python and unity c#.<br />
-i also like art, 3d modeling and video games.
-<br />
-<br />
+I am a young **Coder** and **Furry** learning Python and Unity C#.<br />
+i also like art, 3d modeling and video games.<br />
+Gamedev & Programming are my passions, they bring me lots of joy, but of course they can be stressful sometimes.. hehe.
+> **Fun Fact!**<br />
+> Before python, i started with c++, but i felt more comfortable with python.<br />
+
+i hope you enjoy the stuff i make! - Coden
 # Badges:
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -26,5 +29,19 @@ i also like art, 3d modeling and video games.
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# My Repositories
+>[!NOTE]
+>They certainly aren't the best, i mostly share projects that i use to learn certain things. i might start doing full-on projects after i learn enough.
+
+**Here Are Some of My Repositories:**
+
+[Fake ATM](https://github.com/CodenTheSynth/Fake-ATM) - a fake atm thing i made to practice classes in python, more currencies can be quickly added by making more currency objects.<br />
+[Math Quest](https://github.com/CodenTheSynth/MathQuest) - this is a very easy math game with a basic progression system.
+
+# Links
+![Static Badge](https://img.shields.io/badge/Youtube%20-%20red?style=plastic&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40CodenTheSynth)
+
+
+
 > [!IMPORTANT]
 > This page is WIP, come back later.
