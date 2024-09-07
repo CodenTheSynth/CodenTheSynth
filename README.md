@@ -36,6 +36,7 @@ i hope you enjoy the stuff i make! - Coden
 **Here Are Some of My Repositories:**
 
 [Fake ATM](https://github.com/CodenTheSynth/Fake-ATM) - a fake atm thing i made to practice classes in python, more currencies can be quickly added by making more currency objects.<br />
+[PeteMP3](https://github.com/CodenTheSynth/PeteMP3) - a Poorly made MP3 Player, where Peter Griffin from Family guy Dances to Your Music.
 [Math Quest](https://github.com/CodenTheSynth/MathQuest) - this is a very easy math game with a basic progression system.
 
 # Links
